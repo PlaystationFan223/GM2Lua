@@ -15,3 +15,15 @@ This Project plans to make any GameMaker:Studio 2 game moddable using lua!
 
 Questions, Want to Help? 
 DM "spaghetto207" on Discord!
+
+## Credits
+------------------------------------------
+-The entire UndertaleModTool Team, for their amazing tool. (Uses UndertaleModLib)
+
+-Moonsharp, for the abililty to add lua!
+
+-GS2ML (Inspiration)
+
+-Apollo from YellowAfterLife (Inspiration)
+
+-0xVB From Discord (Inspiration)
