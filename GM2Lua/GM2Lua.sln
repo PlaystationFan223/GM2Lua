@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMLunar", "GMLunar\GMLunar.csproj", "{0E5F7124-BB78-4C12-B86B-419F4B945C29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UndertaleModLib", "..\UndertaleModLib\UndertaleModLib.csproj", "{39533C09-2449-4A3F-A778-56171F8E1560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Debug|x64.Build.0 = Debug|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Release|x64.ActiveCfg = Release|Any CPU
+		{0E5F7124-BB78-4C12-B86B-419F4B945C29}.Release|x64.Build.0 = Release|Any CPU
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Debug|x64.ActiveCfg = Debug|x64
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Debug|x64.Build.0 = Debug|x64
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Release|x64.ActiveCfg = Release|x64
+		{39533C09-2449-4A3F-A778-56171F8E1560}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD9E3BE-1F3A-463C-A40D-15A189F72875}
+	EndGlobalSection
+EndGlobal
